@@ -1,12 +1,10 @@
-const h1 = document.querySelector("div.hello:first-child h1");
+const loginform = document.querySelector("#login-form");
+const loginInput = document.querySelector("#login-form input");
 
-function handleTitleClick(){
-    const clickedClass = "clicked"
-   if (h1.className === "clickedClass") {
-       h1.className = "";
-   } else {
-       h1.className = "clickedClass";
-   }
+function onLoginSubmit(event) {
+    event.preventDefault();
+    console.log(loginInput.value);
 }
 
-h1.addEventListener("click",handleTitleClick );
+
+loginform.addEventListener("submit", onLoginSubmit);
