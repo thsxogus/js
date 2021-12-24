@@ -26,3 +26,14 @@ LOGIN
 Input Values [o]
 Form Submission[o]
 Events part one, Two [o]
+Getting Username [o]
+Saving Username [o]
+Loading Username [o]
+Recap [o]
+
+CLOCK
+
+Intervals [o]
+Timeouts and Dates [o]
+PadStart [o]
+Recap [o]
