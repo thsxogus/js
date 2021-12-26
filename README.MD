@@ -43,3 +43,18 @@ QUOTES AND BACKGROUND
 Quotes[o]
 Background[o]
 Recap[o]
+
+TO DO LIST 
+
+Setup [o]
+Adding ToDos [o]
+Deleting To Dos [o]
+Saving To Dos [o]
+Loading To Dos part One, Two [o]
+Deleting To Dos part One, Two, Three [o]
+
+WEATHER
+
+Geolocation [o]
+Weather API [o]
+Conclusions [o]
